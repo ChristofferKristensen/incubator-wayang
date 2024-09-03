@@ -23,12 +23,12 @@
     <parent>
         <artifactId>wayang-platforms</artifactId>
         <groupId>org.apache.wayang</groupId>
-        <version>0.7.1</version>
+        <version>0.7.1-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>wayang-tensorflow</artifactId>
-    <version>0.7.1</version>
+        <version>0.7.1-SNAPSHOT</version>
 
     <name>Wayang Platform Tensorflow</name>
     <description>
@@ -38,7 +38,7 @@
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
-        <wayang.version>0.7.1</wayang.version>
+        <wayang.version>0.7.1-SNAPSHIT</wayang.version>
         <tensorflow.version>0.4.2</tensorflow.version>
     </properties>
 
